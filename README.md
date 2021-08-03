@@ -7,7 +7,7 @@
 --------------------------
 
 **What it does:**
-The Recruitment Automation Program complies a list of new nations from NationStates and inputs them into a link that you can copy. Additionally, it places your recruitment template into the link, meaning one less click for you to make. It also pads the generation time to give you the proper amount of time between link generations. For example, if a link for 4 nations is generated, at least 40 seconds will elapse before the next link is generated.
+The Recruitment Automation Project complies a list of new nations from NationStates and inputs them into a link that you can copy. Additionally, it places your recruitment template into the link, meaning one less click for you to make. It also pads the generation time to give you the proper amount of time between link generations. For example, if a link for 4 nations is generated, at least 40 seconds will elapse before the next link is generated.
 
 **How to start:**
 Simply download the file off github, open it, and follow the prompts. If you download the .zip file (recommended), you'll need to decompress the file as well. For Debian platforms, make sure that you run the file in the terminal; otherwise, it will not open. Once you are finished recruiting, you can simply close the prompt. It is *highly* recommended that you place the recruitment file in a separate folder from other files and documnets prior to running.
